@@ -1,0 +1,5 @@
+package com.example.issue845.enums;
+
+public enum VehicleTypeType {
+	CAR, TRUCK, COMMERCIAL_TRAILER, NON_COMMERCIAL_TRAILER, BOAT, MOTORCYCLE, MOBILEHOME, ATV, TRAILER, UNKNOWN
+}
